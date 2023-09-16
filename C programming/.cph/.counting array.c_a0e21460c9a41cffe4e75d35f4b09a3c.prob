@@ -1,0 +1,1 @@
+{"name":"Local: counting array","url":"e:\\My repo\\New folder\\My-first-repo\\counting array.c","tests":[{"id":1683212081381,"input":"10\n2 3 4 3 3 4 3 3 4 0","output":"0 - 1\n1 - 0\n2 - 1\n3 - 5\n4 - 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\counting array.c","group":"local","local":true}

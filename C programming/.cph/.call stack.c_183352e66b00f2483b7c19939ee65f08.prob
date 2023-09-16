@@ -1,0 +1,1 @@
+{"name":"Local: call stack","url":"e:\\My repo\\New folder\\My-first-repo\\C programming\\call stack.c","tests":[{"id":1687789653265,"input":"","output":"MAIN\nHELLO\nWORLD\nworld\nhello\nmain"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\C programming\\call stack.c","group":"local","local":true}

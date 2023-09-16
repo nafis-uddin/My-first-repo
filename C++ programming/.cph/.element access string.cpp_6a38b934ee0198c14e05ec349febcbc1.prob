@@ -1,0 +1,1 @@
+{"name":"Local: element access string","url":"e:\\My repo\\New folder\\My-first-repo\\C++ programming\\element access string.cpp","tests":[{"id":1685535139870,"input":"Hello","output":"H\nH\n\no\no"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\C++ programming\\element access string.cpp","group":"local","local":true}

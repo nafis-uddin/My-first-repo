@@ -1,0 +1,1 @@
+{"name":"Local: pattern 3","url":"e:\\My repo\\New folder\\My-first-repo\\pattern 3.c","tests":[{"id":1683360985482,"input":"4","output":"1 2 3 4 \n1 2 3 \n1 2 \n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\pattern 3.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: counting string","url":"e:\\My repo\\New folder\\My-first-repo\\counting string.c","tests":[{"id":1683216251002,"input":"asjfdladsdadafdaad","output":"a - 6\nd - 6\nf - 2\nj - 1\nl - 1\ns - 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\counting string.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: M1 L6","url":"e:\\My repo\\New folder\\My-first-repo\\Data Structure\\M1 L6.cpp","tests":[{"id":1687416738465,"input":"6\n3 5 2 5 4 6\n3\n20 34 14","output":"3 5 2 5 4 6 \n20 34 14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\Data Structure\\M1 L6.cpp","group":"local","local":true}

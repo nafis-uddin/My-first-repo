@@ -1,0 +1,1 @@
+{"name":"Local: string scan input","url":"e:\\My repo\\New folder\\My-first-repo\\string scan input.c","tests":[{"id":1682317727765,"input":"2\nab","output":"ab"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\string scan input.c","group":"local","local":true}

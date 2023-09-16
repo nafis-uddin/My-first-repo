@@ -1,0 +1,1 @@
+{"name":"Local: delete value","url":"e:\\My repo\\New folder\\My-first-repo\\delete value.c","tests":[{"id":1681790856613,"input":"5\n10 60 20 30 40\n1","output":"10 20 30 40"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\delete value.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: float input","url":"e:\\My repo\\New folder\\My-first-repo\\C++ programming\\float input.cpp","tests":[{"id":1684679801856,"input":"3.5 5.55556663244","output":"3.5\n5.56"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\C++ programming\\float input.cpp","group":"local","local":true}

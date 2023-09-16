@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+#include <algorithm>
+int main()
+{
+    int a, b;
+    cin>>a>>b;
+    int maximum = max(a,b);
+    int minimum = min(a,b);
+    cout<<maximum<<" "<<minimum;
+    return 0;
+}

@@ -1,0 +1,1 @@
+{"name":"Local: array reverse","url":"e:\\My repo\\New folder\\My-first-repo\\array reverse.c","tests":[{"id":1682304900875,"input":"6\n10 20 30 40 50 60","output":"60 50 40 30 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\array reverse.c","group":"local","local":true}

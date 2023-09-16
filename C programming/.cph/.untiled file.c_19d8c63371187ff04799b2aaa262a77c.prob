@@ -1,0 +1,1 @@
+{"name":"Local: untiled file","url":"e:\\My repo\\New folder\\My-first-repo\\untiled file.c","tests":[{"id":1683602352768,"input":"5","output":"1\n   22\n  333 \n 4444\n55555"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\untiled file.c","group":"local","local":true}

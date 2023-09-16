@@ -1,0 +1,1 @@
+{"name":"Local: concatenation basic","url":"e:\\My repo\\New folder\\My-first-repo\\concatenation basic.c","tests":[{"id":1683206338464,"input":"Hello World","output":"HelloWorld World"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\concatenation basic.c","group":"local","local":true}

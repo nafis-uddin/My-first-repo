@@ -1,0 +1,1 @@
+{"name":"Local: pattern  basic","url":"e:\\My repo\\New folder\\My-first-repo\\C programming\\pattern  basic.c","tests":[{"id":1687789470069,"input":"5","output":"*****\n****\n***\n**\n*"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\C programming\\pattern  basic.c","group":"local","local":true}

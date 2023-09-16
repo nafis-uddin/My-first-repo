@@ -1,0 +1,1 @@
+{"name":"Local: pointer and array","url":"e:\\My repo\\New folder\\My-first-repo\\pointer and array.c","tests":[{"id":1683536226647,"input":"","output":"0061FF14\n0061FF14\n\n10\n10\n\n20\n20\n20\n20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\pointer and array.c","group":"local","local":true}

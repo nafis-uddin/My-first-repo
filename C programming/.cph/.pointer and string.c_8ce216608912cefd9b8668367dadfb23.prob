@@ -1,0 +1,1 @@
+{"name":"Local: pointer and string","url":"e:\\My repo\\New folder\\My-first-repo\\pointer and string.c","tests":[{"id":1683542538201,"input":"","output":"Hey\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\pointer and string.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: call by value","url":"e:\\My repo\\New folder\\My-first-repo\\call by value.c","tests":[{"id":1683534234637,"input":"","output":"First x is 3\nSecond x is 3\nThird x is 4\nFourth x is 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\call by value.c","group":"local","local":true}

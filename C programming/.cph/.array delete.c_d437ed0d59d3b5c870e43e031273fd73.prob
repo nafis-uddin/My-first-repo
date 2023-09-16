@@ -1,0 +1,1 @@
+{"name":"Local: array delete","url":"e:\\My repo\\New folder\\My-first-repo\\array delete.c","tests":[{"id":1682263071365,"input":"5\n10 20 30 40 50\n2","output":"10 20 40 50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\array delete.c","group":"local","local":true}

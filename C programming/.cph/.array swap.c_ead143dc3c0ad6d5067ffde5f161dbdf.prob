@@ -1,0 +1,1 @@
+{"name":"Local: array swap","url":"e:\\My repo\\My-first-repo\\C programming\\array swap.c","tests":[{"id":1693069554068,"input":"6\n10 20 30 40 50 60","output":"60 50 40 30 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\My-first-repo\\C programming\\array swap.c","group":"local","local":true}

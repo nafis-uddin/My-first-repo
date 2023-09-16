@@ -1,0 +1,1 @@
+{"name":"Local: string copy","url":"e:\\My repo\\New folder\\My-first-repo\\string copy.c","tests":[{"id":1683174820465,"input":"orange apple","output":"apple apple"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My repo\\New folder\\My-first-repo\\string copy.c","group":"local","local":true}
